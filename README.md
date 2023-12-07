@@ -21,7 +21,7 @@ To run the project locally, follow these steps:
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/Adhithya-Laxman/Sentimental-Analysis-in-R.git
-   cd SentimentAnalysis-R
+   cd Sentimental-Analysis-in-R
    ```
 
 2. **Install Dependencies:**
